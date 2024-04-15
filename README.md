@@ -14,4 +14,4 @@
   <img align="git" alt="msoffice" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
-Sou aluno do curso técnico de Tecnologia da Informação na Firjan Senai Maracanã.Este perfil estará sendo utilizado para fins educacionais com os temas trabalhados em sala de aula.
+Sou aluno do curso técnico de Tecnologia da Informação na Firjan Senai Maracanã. Este perfil estará sendo utilizado para fins educacionais com os temas trabalhados em sala de aula.
